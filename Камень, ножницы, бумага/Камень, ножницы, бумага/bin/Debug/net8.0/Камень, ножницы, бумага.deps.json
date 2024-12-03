@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Камень, ножницы, бумага/1.0.0": {
+        "runtime": {
+          "Камень, ножницы, бумага.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Камень, ножницы, бумага/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

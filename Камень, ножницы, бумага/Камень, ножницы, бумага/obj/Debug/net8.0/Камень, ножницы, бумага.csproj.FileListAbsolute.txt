@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\bin\Debug\net8.0\Камень, ножницы, бумага.exe
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\bin\Debug\net8.0\Камень, ножницы, бумага.deps.json
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\bin\Debug\net8.0\Камень, ножницы, бумага.runtimeconfig.json
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\bin\Debug\net8.0\Камень, ножницы, бумага.dll
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\bin\Debug\net8.0\Камень, ножницы, бумага.pdb
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\net8.0\Камень, ножницы, бумага.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\net8.0\Камень, ножницы, бумага.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\net8.0\Камень, ножницы, бумага.AssemblyInfo.cs
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\net8.0\Камень, ножницы, бумага.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\net8.0\Камень, ножницы, бумага.dll
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\net8.0\refint\Камень, ножницы, бумага.dll
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\net8.0\Камень, ножницы, бумага.pdb
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\net8.0\Камень, ножницы, бумага.genruntimeconfig.cache
+C:\Users\User\source\repos\Github\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\net8.0\ref\Камень, ножницы, бумага.dll

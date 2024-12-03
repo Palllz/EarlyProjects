@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\bin\Debug\net8.0\Готовка супа (ООП).exe
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\bin\Debug\net8.0\Готовка супа (ООП).deps.json
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\bin\Debug\net8.0\Готовка супа (ООП).runtimeconfig.json
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\bin\Debug\net8.0\Готовка супа (ООП).dll
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\bin\Debug\net8.0\Готовка супа (ООП).pdb
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\obj\Debug\net8.0\Готовка супа (ООП).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\obj\Debug\net8.0\Готовка супа (ООП).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\obj\Debug\net8.0\Готовка супа (ООП).AssemblyInfo.cs
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\obj\Debug\net8.0\Готовка супа (ООП).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\obj\Debug\net8.0\Готовка супа (ООП).dll
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\obj\Debug\net8.0\refint\Готовка супа (ООП).dll
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\obj\Debug\net8.0\Готовка супа (ООП).pdb
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\obj\Debug\net8.0\Готовка супа (ООП).genruntimeconfig.cache
+C:\Users\User\source\repos\Github\Готовка супа (ООП)\Готовка супа (ООП)\obj\Debug\net8.0\ref\Готовка супа (ООП).dll

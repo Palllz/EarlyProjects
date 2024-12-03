@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\USB\USB\obj\Debug\netcoreapp3.1\USB.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\USB\USB\obj\Debug\netcoreapp3.1\USB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\USB\USB\obj\Debug\netcoreapp3.1\USB.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\USB\USB\obj\Debug\netcoreapp3.1\USB.AssemblyInfo.cs
+C:\Users\User\source\repos\USB\USB\obj\Debug\netcoreapp3.1\USB.csproj.CoreCompileInputs.cache

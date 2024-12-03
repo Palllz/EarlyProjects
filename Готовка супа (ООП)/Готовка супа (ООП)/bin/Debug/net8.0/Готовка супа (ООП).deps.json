@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Готовка супа (ООП)/1.0.0": {
+        "runtime": {
+          "Готовка супа (ООП).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Готовка супа (ООП)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
